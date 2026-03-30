@@ -1,11 +1,4 @@
-# 📘 Aula 04 — Conceitos de Virtualização
-
-## 🎯 Objetivos da Aula
-- Compreender o conceito de virtualização  
-- Entender seu papel na computação em nuvem  
-- Identificar os principais tipos de virtualização  
-- Diferenciar máquinas virtuais e containers  
-- Conhecer técnicas e abordagens de virtualização  
+# 📘 Conceitos de Virtualização
 
 ---
 

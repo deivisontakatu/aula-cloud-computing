@@ -1,10 +1,4 @@
-# 📘 Aula 02 — Tipos de Nuvem (Modelos de Implantação)
-
-## 🎯 Objetivos da Aula
-- Compreender os diferentes tipos de nuvem  
-- Diferenciar nuvem pública, privada e híbrida  
-- Identificar vantagens e desvantagens de cada modelo  
-- Relacionar os tipos de nuvem com cenários reais  
+# 📘 Tipos de Nuvem (Modelos de Implantação)
 
 ---
 

@@ -1,10 +1,4 @@
-# 📘 Aula 06 — Desafios e Riscos da Computação em Nuvem
-
-## 🎯 Objetivos da Aula
-- Identificar os principais desafios da computação em nuvem  
-- Compreender os riscos envolvidos no uso da nuvem  
-- Relacionar segurança, governança e compliance  
-- Entender impactos organizacionais e técnicos  
+# 📘 Desafios e Riscos da Computação em Nuvem
 
 ---
 

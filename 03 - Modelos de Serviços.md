@@ -1,10 +1,4 @@
-# 📘 Aula 03 — Modelos de Serviços em Nuvem (IaaS, PaaS, SaaS)
-
-## 🎯 Objetivos da Aula
-- Compreender os modelos de serviço em nuvem  
-- Diferenciar IaaS, PaaS e SaaS  
-- Entender responsabilidades em cada modelo  
-- Identificar aplicações reais no mercado  
+# 📘 Modelos de Serviços em Nuvem (IaaS, PaaS, SaaS)
 
 ---
 

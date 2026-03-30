@@ -1,10 +1,4 @@
-# 📘 Aula 05 — Características da Computação em Nuvem
-
-## 🎯 Objetivos da Aula
-- Compreender as principais características da computação em nuvem  
-- Entender o modelo definido por padrões (NIST)  
-- Relacionar as características com aplicações reais  
-- Identificar como essas características impactam o uso da nuvem  
+# 📘 Características da Computação em Nuvem
 
 ---
 

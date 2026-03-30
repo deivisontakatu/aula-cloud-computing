@@ -1,10 +1,4 @@
-# 📘 Aula 07 — Arquitetura e Componentes de Cloud Computing
-
-## 🎯 Objetivos da Aula
-- Compreender a arquitetura da computação em nuvem  
-- Identificar os principais componentes da nuvem  
-- Entender a organização de datacenters e serviços  
-- Relacionar arquitetura com escalabilidade e desempenho  
+# 📘 Arquitetura e Componentes de Cloud Computing
 
 ---
 
